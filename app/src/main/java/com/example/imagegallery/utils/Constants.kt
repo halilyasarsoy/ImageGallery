@@ -1,4 +1,4 @@
-package com.example.daggerhiltretrofit.utils
+package com.example.imagegallery.utils
 
 object Constants {
 
